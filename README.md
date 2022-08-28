@@ -1,6 +1,6 @@
-# Challenge 20 - Personal Savings with Blockchain
+## Challenge 20 - Personal Savings with Blockchain
 
-This Challenge showcases an automated creation of a joint savings accounts. Using a Solidity smart contract that accepts two user addresses. The smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
+The Personal Savings with Blockchain challenge showcases an automated creation of a joint savings accounts. Through the use of a Solidity smart contract that accepts two user addresses. The smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
 ---
 
 ## Installation Guide
